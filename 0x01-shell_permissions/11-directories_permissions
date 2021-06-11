@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod -R a+x *
+=======
+chmod a+x *
+>>>>>>> 48cb4263c1b111eaf9a5dec7706916cdf3e23efb
